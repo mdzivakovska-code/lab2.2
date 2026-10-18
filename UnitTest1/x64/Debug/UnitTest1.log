@@ -1,0 +1,12 @@
+﻿  UnitTest1.cpp
+C:\Users\DELL\source\repos\lab2.2\lab2.2\String.cpp(58,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\DELL\source\repos\lab2.2\lab2.2\String.cpp(112,19): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\DELL\source\repos\lab2.2\lab2.2\String.cpp(113,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/UnitTest1.cpp')
+  
+     Creating library C:\Users\DELL\source\repos\lab2.2\x64\Debug\UnitTest1.lib and object C:\Users\DELL\source\repos\lab2.2\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\DELL\source\repos\lab2.2\x64\Debug\UnitTest1.dll
